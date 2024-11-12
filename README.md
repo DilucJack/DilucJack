@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DilucJack
-- 👀 I’m interested in c++
+- 👀 I’m interested in java, js
 - 🌱 I’m currently learning codinng
 - 📫 How to reach me 2471356658@qq.com
 
